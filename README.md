@@ -1,0 +1,1 @@
+# weird_story_generator
